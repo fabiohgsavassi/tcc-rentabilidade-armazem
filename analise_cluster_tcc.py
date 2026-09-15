@@ -150,7 +150,10 @@ plt.show()
 # %% Padronização por meio do Z-Score
 
 # Aplicando o procedimento de ZScore
-armazem_pad = armazem_cluster.apply(zscore, ddof=1)
+variaveis_cluster = ['Ocupação Média de Pallets por Mês',
+                     'Giro Mensal Médio de Estoque',
+                     'Volatilidade de Ocupação']
+armazem_pad = armazem_cluster[variaveis_cluster].apply(zscore, ddof=1)
 
 # Visualizando o resultado do procedimento na média e desvio padrão
 print(np.round(armazem_pad.mean(), 3))
