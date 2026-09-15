@@ -22,6 +22,6 @@ Fábio Henrique Gonçales Savassi¹*; Elias Soares de Figueiredo²
 
 ## Arquivos
 
-- clusterizacao.py
-- analise_correlacao.py
-- dados_tratados.xlsx
+dados_tcc_armazem.csv
+analise_cluster_tcc.py
+README.md
