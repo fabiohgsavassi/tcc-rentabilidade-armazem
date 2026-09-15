@@ -1,0 +1,13 @@
+﻿Cliente;Segmento;Índice de Intensidade Operacional;Lead Time Médio em Dias;Ocupação Média de Pallets por Mês;Margem de Contribuição Estimada;Giro Mensal Médio de Estoque;Volatilidade de Ocupação
+Cliente 1;Agro / Alimentício;0,7709;97;32;0,42;55,63020833;27,9
+Cliente 2;Agro / Alimentício;0,8957;111;31;0,48;30,62903226;13,6
+Cliente 3;Químico;0,1064;28;29;0,36;6,022988506;45,5
+Cliente 4;Agro / Alimentício;1,1303;143;27;0,31;7,391975309;84,1
+Cliente 5;Automotivo;0,7203;94;120;0,55;0,561111111;22,6
+Cliente 6;Cosmético / Farma;0,4763;92;18;0,22;4,199074074;58,7
+Cliente 7;Agro / Alimentício;0,7678;37;72;0,34;0,503472222;32,4
+Cliente 8;Agro / Alimentício;0,3807;119;6;0,18;12,51388889;102,6
+Cliente 9;Químico;0,35;75;12;0,27;5,902777778;62,7
+Cliente 10;Agro / Alimentício;0,42;95;15;0,33;0,866666667;60,4
+Cliente 11;Agro / Alimentício;0,28;120;10;0,21;0,35;58,2
+Cliente 12;Químico;0,32;135;11;0,25;0,075757576;54,3
