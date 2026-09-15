@@ -1,0 +1,13 @@
+﻿Cliente;Segmento;Índice de Intensidade Operacional;Lead Time Médio em Dias;Média de Movimentações por Mês;Movimentações Médias Internas em Pallets por Mês;Ocupação Média de Pallets por Mês;Receita Mensal Bruta de Armazenagem;Receita Mensal Bruta de Serviços;Valor Mensal Bruta de Mercadorias;Volume Total Movimentados em Pallets;Margem de Contribuição Estimada;Giro Mensal Médio de Estoque;Volatilidade de Ocupação
+Cliente 1;Agro / Alimentício;0,7709;97;1942;1497;32;830060,51;59249,86;7994422,83;21362;0,42;55,63020833;27,9
+Cliente 2;Agro / Alimentício;0,8957;111;1036;928;31;391727,49;6024,44;3772779,37;11394;0,48;30,62903226;13,6
+Cliente 3;Químico;0,1064;28;349;37;29;48117,59;2174,08;6700167,92;2096;0,36;6,022988506;45,5
+Cliente 4;Agro / Alimentício;1,1303;143;239,5;271;27;544588,17;58140,84;1011249,04;2395;0,31;7,391975309;84,1
+Cliente 5;Automotivo;0,7203;94;135;97;120;34185,23;2254,06;7205484,91;808;0,55;0,561111111;22,6
+Cliente 6;Cosmético / Farma;0,4763;92;90,7;44;18;11341,82;4335,74;3124485,79;907;0,22;4,199074074;58,7
+Cliente 7;Agro / Alimentício;0,7678;37;145;111;72;24910,91;14907,04;7187135,07;435;0,34;0,503472222;32,4
+Cliente 8;Agro / Alimentício;0,3807;119;100;38;6;23415,67;410,87;1294853,10;901;0,18;12,51388889;102,6
+Cliente 9;Químico;0,35;75;85;40;12;18000,00;1200,00;1800000,00;850;0,27;5,902777778;62,7
+Cliente 10;Agro / Alimentício;0,42;95;110;55;15;24000,00;1800,00;2400000,00;156;0,33;0,866666667;60,4
+Cliente 11;Agro / Alimentício;0,28;120;70;32;10;14000,00;900,00;1200000,00;42;0,21;0,35;58,2
+Cliente 12;Químico;0,32;135;90;45;11;16500,00;1100,00;1500000,00;10;0,25;0,075757576;54,3
